@@ -1,2 +1,3 @@
 # blackScene
-显示纯黑色页面。Create a black screen on your Android phone.  
+## 显示***纯黑色***页面。Create a black screen on your Android phone.  
+#### (maybe useless 可能没啥卵用...)
